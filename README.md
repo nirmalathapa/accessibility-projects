@@ -1,2 +1,2 @@
-# accessibility-projects
-Collection of Accessible design and development resources
+# Collection of Accessible design and development resources
+This is a place for documenting all the resources related to accessibility especially in terms of design and development. I have realised that accessible and inclusive design and development is the key to good user experience. Therefore, I have committed to adding all the information that I find will be added here. So, that the future me does not have a hard time finding same information again and again. Also, I believe it will be very useful for all the people who are embarking in the journey of accessible design and development. 
